@@ -1,0 +1,1011 @@
+loginShell: /bin/bash
+mail: ahakhanova@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ahakhanova
+gecos: Hanna Ahakhanova
+cn: Hanna Ahakhanova
+uidNumber: 3504
+gidNumber: 506
+homeDirectory: /home/ahakhanova/
+displayName: Hanna Ahakhanova
+
+# anakamura, People, cogniance.com
+dn: uid=anakamura,ou=People,dc=cogniance,dc=com
+sn: anakamura
+loginShell: /bin/bash
+mail: anakamura@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: anakamura
+gecos: Akira Nakamura
+cn: Akira Nakamura
+uidNumber: 3505
+gidNumber: 506
+homeDirectory: /home/anakamura/
+displayName: Akira Nakamura
+
+# ue-despiritu, People, cogniance.com
+dn: uid=ue-despiritu,ou=People,dc=cogniance,dc=com
+sn: ue-despiritu
+loginShell: /bin/bash
+mail: danica@thepad.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-despiritu
+gecos: Danica Espiritu
+cn: Danica Espiritu
+uidNumber: 3506
+gidNumber: 3020
+homeDirectory: /home/ue-despiritu/
+displayName: Danica Espiritu
+
+# ue-mcorbridge, People, cogniance.com
+dn: uid=ue-mcorbridge,ou=People,dc=cogniance,dc=com
+sn: ue-mcorbridge
+loginShell: /bin/bash
+mail: megan@thepad.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-mcorbridge
+gecos: Megan Corbridge
+cn: Megan Corbridge
+uidNumber: 3507
+gidNumber: 3020
+homeDirectory: /home/ue-mcorbridge/
+displayName: Megan Corbridge
+
+# vkozytskiy, People, cogniance.com
+dn: uid=vkozytskiy,ou=People,dc=cogniance,dc=com
+sn: vkozytskiy
+loginShell: /bin/bash
+mail: vkozytskiy@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: vkozytskiy
+gecos: Volodymyr Kozytskiy
+cn: Volodymyr Kozytskiy
+uidNumber: 3508
+gidNumber: 506
+homeDirectory: /home/vkozytskiy/
+displayName: Volodymyr Kozytskiy
+
+# cbellavite, People, cogniance.com
+dn: uid=cbellavite,ou=People,dc=cogniance,dc=com
+sn: cbellavite
+loginShell: /bin/bash
+mail: cbellavite@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: cbellavite
+gecos: Caterina Bellavite
+cn: Caterina Bellavite
+uidNumber: 3509
+gidNumber: 506
+homeDirectory: /home/cbellavite/
+displayName: Caterina Bellavite
+
+# ue-nshih, People, cogniance.com
+dn: uid=ue-nshih,ou=People,dc=cogniance,dc=com
+sn: ue-nshih
+loginShell: /bin/bash
+mail: Nathan.Shih@conduent.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-nshih
+gecos: Nathan Shih
+cn: Nathan Shih
+uidNumber: 3510
+gidNumber: 3020
+homeDirectory: /home/ue-nshih/
+displayName: Nathan Shih
+
+# ue-jlevenstein, People, cogniance.com
+dn: uid=ue-jlevenstein,ou=People,dc=cogniance,dc=com
+sn: ue-jlevenstein
+loginShell: /bin/bash
+mail: Jenelle.Levenstein@conduent.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-jlevenstein
+gecos: Jenelle Levenstein
+cn: Jenelle Levenstein
+uidNumber: 3511
+gidNumber: 3020
+homeDirectory: /home/ue-jlevenstein/
+displayName: Jenelle Levenstein
+
+# jbiesterfeldt, People, cogniance.com
+dn: uid=jbiesterfeldt,ou=People,dc=cogniance,dc=com
+sn: jbiesterfeldt
+loginShell: /bin/bash
+mail: jbiesterfeldt@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: jbiesterfeldt
+gecos: Jakob Biesterfeldt
+cn: Jakob Biesterfeldt
+uidNumber: 3512
+gidNumber: 506
+homeDirectory: /home/jbiesterfeldt/
+displayName: Jakob Biesterfeldt
+
+# dwelch, People, cogniance.com
+dn: uid=dwelch,ou=People,dc=cogniance,dc=com
+sn: dwelch
+loginShell: /bin/bash
+mail: dwelch@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: dwelch
+gecos: Duncan Welch
+cn: Duncan Welch
+uidNumber: 3513
+gidNumber: 506
+homeDirectory: /home/dwelch/
+displayName: Duncan Welch
+
+# lhowald, People, cogniance.com
+dn: uid=lhowald,ou=People,dc=cogniance,dc=com
+sn: lhowald
+loginShell: /bin/bash
+mail: lhowald@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: lhowald
+gecos: Luca Howald
+cn: Luca Howald
+uidNumber: 3514
+gidNumber: 506
+homeDirectory: /home/lhowald/
+displayName: Luca Howald
+
+# ygrobovenko, People, cogniance.com
+dn: uid=ygrobovenko,ou=People,dc=cogniance,dc=com
+sn: ygrobovenko
+loginShell: /bin/bash
+mail: ygrobovenko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ygrobovenko
+gecos: Yaroslav Grobovenko
+cn: Yaroslav Grobovenko
+uidNumber: 3515
+gidNumber: 506
+homeDirectory: /home/ygrobovenko/
+displayName: Yaroslav Grobovenko
+
+# iluchko, People, cogniance.com
+dn: uid=iluchko,ou=People,dc=cogniance,dc=com
+sn: iluchko
+loginShell: /bin/bash
+mail: iluchko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: iluchko
+gecos: Igor Luchko
+cn: Igor Luchko
+uidNumber: 3516
+gidNumber: 506
+homeDirectory: /home/iluchko/
+displayName: Igor Luchko
+
+# vblagodir, People-Archieved, cogniance.com
+dn: uid=vblagodir,ou=People-Archieved,dc=cogniance,dc=com
+sn: vblagodir
+loginShell: /bin/bash
+mail: vblagodir@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+gecos: Vitalii Blagodir
+cn: Vitalii Blagodir
+uidNumber: 3517
+gidNumber: 3019
+homeDirectory: /home/vblagodir/
+displayName: Vitalii Blagodir
+uid: vblagodir
+
+# mgrygorieva, People, cogniance.com
+dn: uid=mgrygorieva,ou=People,dc=cogniance,dc=com
+sn: mgrygorieva
+loginShell: /bin/bash
+mail: mgrygorieva@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: mgrygorieva
+gecos: Mariia Grygorieva
+cn: Mariia Grygorieva
+uidNumber: 3518
+gidNumber: 506
+homeDirectory: /home/mgrygorieva/
+displayName: Mariia Grygorieva
+
+# dmostovyi, People, cogniance.com
+dn: uid=dmostovyi,ou=People,dc=cogniance,dc=com
+sn: dmostovyi
+loginShell: /bin/bash
+mail: dmostovyi@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: dmostovyi
+gecos: Dmytro Mostovyi
+cn: Dmytro Mostovyi
+uidNumber: 3519
+gidNumber: 506
+homeDirectory: /home/dmostovyi/
+displayName: Dmytro Mostovyi
+
+# ue-hjorgensen, People, cogniance.com
+dn: uid=ue-hjorgensen,ou=People,dc=cogniance,dc=com
+sn: ue-hjorgensen
+loginShell: /bin/bash
+mail: Heidi.Jorgensen@phillipsmedisize.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-hjorgensen
+gecos: Heidi Jorgensen
+cn: Heidi Jorgensen
+uidNumber: 3520
+gidNumber: 3020
+homeDirectory: /home/ue-hjorgensen/
+displayName: Heidi Jorgensen
+
+# rogach.a, People, cogniance.com
+dn: uid=rogach.a,ou=People,dc=cogniance,dc=com
+sn: rogach.a
+loginShell: /bin/bash
+mail: rogach.a@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: rogach.a
+uidNumber: 3521
+gidNumber: 506
+homeDirectory: /home/rogach.a/
+cn: Alex Rogach
+displayName: Alex Rogach
+gecos: Alex Rogach
+
+# ozherdiieva, People, cogniance.com
+dn: uid=ozherdiieva,ou=People,dc=cogniance,dc=com
+sn: ozherdiieva
+loginShell: /bin/bash
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ozherdiieva
+uidNumber: 3522
+gidNumber: 506
+homeDirectory: /home/ozherdiieva/
+mail: azherdiieva@cogniance.com
+cn: Alexandra Zherdiieva
+displayName: Alexandra Zherdiieva
+gecos: Alexandra Zherdiieva
+
+# ygergiyeva, People, cogniance.com
+dn: uid=ygergiyeva,ou=People,dc=cogniance,dc=com
+sn: ygergiyeva
+loginShell: /bin/bash
+mail: ygergiyeva@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ygergiyeva
+gecos: Yekaterina Gergiyeva
+cn: Yekaterina Gergiyeva
+uidNumber: 3523
+gidNumber: 506
+homeDirectory: /home/ygergiyeva/
+displayName: Yekaterina Gergiyeva
+
+# vhorobiuk, People, cogniance.com
+dn: uid=vhorobiuk,ou=People,dc=cogniance,dc=com
+sn: vhorobiuk
+loginShell: /bin/bash
+mail: vhorobiuk@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: vhorobiuk
+gecos: Volodymyr Horobiuk
+cn: Volodymyr Horobiuk
+uidNumber: 3524
+gidNumber: 506
+homeDirectory: /home/vhorobiuk/
+displayName: Volodymyr Horobiuk
+
+# lguseinova, People, cogniance.com
+dn: uid=lguseinova,ou=People,dc=cogniance,dc=com
+sn: lguseinova
+loginShell: /bin/bash
+mail: lguseinova@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: lguseinova
+gecos: Leila Guseinova
+cn: Leila Guseinova
+uidNumber: 3525
+gidNumber: 506
+homeDirectory: /home/lguseinova/
+displayName: Leila Guseinova
+
+# ohaff, People, cogniance.com
+dn: uid=ohaff,ou=People,dc=cogniance,dc=com
+sn: ohaff
+loginShell: /bin/bash
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ohaff
+gecos: Olle Haff
+cn: Olle Haff
+uidNumber: 3526
+gidNumber: 506
+homeDirectory: /home/ohaff/
+displayName: Olle Haff
+mail: olle@cogniance.com
+
+# akicha, People, cogniance.com
+dn: uid=akicha,ou=People,dc=cogniance,dc=com
+sn: akicha
+loginShell: /bin/bash
+mail: akicha@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: akicha
+gecos: Andrii Kicha
+cn: Andrii Kicha
+uidNumber: 3527
+gidNumber: 506
+homeDirectory: /home/akicha/
+displayName: Andrii Kicha
+
+# sr-renault_dmp_ci, People, cogniance.com
+dn: uid=sr-renault_dmp_ci,ou=People,dc=cogniance,dc=com
+sn: sr-renault_dmp_ci
+loginShell: /bin/bash
+mail: renault_dmp_ci@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: sr-renault_dmp_ci
+gecos: renault_dmp_ci
+cn: renault_dmp_ci
+uidNumber: 3528
+gidNumber: 3021
+homeDirectory: /home/sr-renault_dmp_ci/
+displayName: renault_dmp_ci
+
+# ikrainiev, People, cogniance.com
+dn: uid=ikrainiev,ou=People,dc=cogniance,dc=com
+sn: ikrainiev
+loginShell: /bin/bash
+mail: ikrainiev@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ikrainiev
+gecos: Illia Krainiev
+cn: Illia Krainiev
+uidNumber: 3529
+gidNumber: 506
+homeDirectory: /home/ikrainiev/
+displayName: Illia Krainiev
+
+# opetko, People, cogniance.com
+dn: uid=opetko,ou=People,dc=cogniance,dc=com
+sn: opetko
+loginShell: /bin/bash
+mail: opetko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: opetko
+gecos: Oksana Petko
+cn: Oksana Petko
+uidNumber: 3530
+gidNumber: 506
+homeDirectory: /home/opetko/
+displayName: Oksana Petko
+
+# dlukash, People, cogniance.com
+dn: uid=dlukash,ou=People,dc=cogniance,dc=com
+sn: dlukash
+loginShell: /bin/bash
+mail: dlukash@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: dlukash
+gecos: Denis Lukash
+cn: Denis Lukash
+uidNumber: 3531
+gidNumber: 506
+homeDirectory: /home/dlukash/
+displayName: Denis Lukash
+
+# sholts, People, cogniance.com
+dn: uid=sholts,ou=People,dc=cogniance,dc=com
+sn: sholts
+loginShell: /bin/bash
+mail: sholts@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: sholts
+gecos: Stanislav Holts
+cn: Stanislav Holts
+uidNumber: 3532
+gidNumber: 506
+homeDirectory: /home/sholts/
+displayName: Stanislav Holts
+
+# yperederey, People, cogniance.com
+dn: uid=yperederey,ou=People,dc=cogniance,dc=com
+sn: yperederey
+loginShell: /bin/bash
+mail: yperederey@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: yperederey
+gecos: Yevgeniya Perederey
+cn: Yevgeniya Perederey
+uidNumber: 3533
+gidNumber: 506
+homeDirectory: /home/yperederey/
+displayName: Yevgeniya Perederey
+
+# ue-msaunier, People, cogniance.com
+dn: uid=ue-msaunier,ou=People,dc=cogniance,dc=com
+sn: ue-msaunier
+loginShell: /bin/bash
+mail: maxime.saunier@renault.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-msaunier
+gecos: Maxime Saunier
+cn: Maxime Saunier
+uidNumber: 3534
+gidNumber: 3020
+homeDirectory: /home/ue-msaunier/
+displayName: Maxime Saunier
+
+# ue-jjuan, People, cogniance.com
+dn: uid=ue-jjuan,ou=People,dc=cogniance,dc=com
+sn: ue-jjuan
+loginShell: /bin/bash
+mail: jerome.juan@renault.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-jjuan
+gecos: Jerome Juan
+cn: Jerome Juan
+uidNumber: 3535
+gidNumber: 3020
+homeDirectory: /home/ue-jjuan/
+displayName: Jerome Juan
+
+# amfinch, People, cogniance.com
+dn: uid=amfinch,ou=People,dc=cogniance,dc=com
+sn: amfinch
+loginShell: /bin/bash
+mail: amfinch@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: amfinch
+gecos: Anne-Marie Finch
+cn: Anne-Marie Finch
+uidNumber: 3536
+gidNumber: 506
+homeDirectory: /home/amfinch/
+displayName: Anne-Marie Finch
+
+# ababchynetskyi, People, cogniance.com
+dn: uid=ababchynetskyi,ou=People,dc=cogniance,dc=com
+sn: ababchynetskyi
+loginShell: /bin/bash
+mail: ababchynetskyi@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ababchynetskyi
+gecos: Andrii Babchynetskyi
+cn: Andrii Babchynetskyi
+uidNumber: 3537
+gidNumber: 506
+homeDirectory: /home/ababchynetskyi/
+displayName: Andrii Babchynetskyi
+
+# ue-msanisetty, People, cogniance.com
+dn: uid=ue-msanisetty,ou=People,dc=cogniance,dc=com
+sn: ue-msanisetty
+loginShell: /bin/bash
+mail: madhusudhan.sanisetty@zeiss.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-msanisetty
+gecos: Madhusudhan Sanisetty
+cn: Madhusudhan Sanisetty
+uidNumber: 3538
+gidNumber: 3020
+homeDirectory: /home/ue-msanisetty/
+displayName: Madhusudhan Sanisetty
+
+# avasylenko, People, cogniance.com
+dn: uid=avasylenko,ou=People,dc=cogniance,dc=com
+sn: avasylenko
+loginShell: /bin/bash
+mail: avasylenko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: avasylenko
+gecos: Alyona Vasylenko
+cn: Alyona Vasylenko
+uidNumber: 3539
+gidNumber: 506
+homeDirectory: /home/avasylenko/
+displayName: Alyona Vasylenko
+
+# afedchenko, People, cogniance.com
+dn: uid=afedchenko,ou=People,dc=cogniance,dc=com
+sn: afedchenko
+loginShell: /bin/bash
+mail: afedchenko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: afedchenko
+gecos: Anna Fedchenko
+cn: Anna Fedchenko
+uidNumber: 3540
+gidNumber: 506
+homeDirectory: /home/afedchenko/
+displayName: Anna Fedchenko
+
+# ue-wjcui, People, cogniance.com
+dn: uid=ue-wjcui,ou=People,dc=cogniance,dc=com
+sn: ue-wjcui
+loginShell: /bin/bash
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-wjcui
+gecos: Wangjun Cui
+cn: Wangjun Cui
+uidNumber: 3541
+gidNumber: 3020
+homeDirectory: /home/ue-wjcui/
+displayName: Wangjun Cui
+mail: wjcui@saicusa.com
+
+# adrobotenko, People, cogniance.com
+dn: uid=adrobotenko,ou=People,dc=cogniance,dc=com
+sn: adrobotenko
+loginShell: /bin/bash
+mail: adrobotenko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: adrobotenko
+gecos: Artem Drobotenko
+cn: Artem Drobotenko
+uidNumber: 3542
+gidNumber: 506
+homeDirectory: /home/adrobotenko/
+displayName: Artem Drobotenko
+
+# ovostrykov, People, cogniance.com
+dn: uid=ovostrykov,ou=People,dc=cogniance,dc=com
+sn: ovostrykov
+loginShell: /bin/bash
+mail: ovostrykov@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ovostrykov
+gecos: Olexiy Vostrykov
+cn: Olexiy Vostrykov
+uidNumber: 3543
+gidNumber: 506
+homeDirectory: /home/ovostrykov/
+displayName: Olexiy Vostrykov
+
+# oandrieiev, People, cogniance.com
+dn: uid=oandrieiev,ou=People,dc=cogniance,dc=com
+sn: oandrieiev
+loginShell: /bin/bash
+mail: oandrieiev@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: oandrieiev
+gecos: Oleksandr Andrieiev
+cn: Oleksandr Andrieiev
+uidNumber: 3544
+gidNumber: 506
+homeDirectory: /home/oandrieiev/
+displayName: Oleksandr Andrieiev
+
+# myavorskaya, People, cogniance.com
+dn: uid=myavorskaya,ou=People,dc=cogniance,dc=com
+sn: myavorskaya
+loginShell: /bin/bash
+mail: myavorskaya@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: myavorskaya
+gecos: Marina Yavorskaya
+cn: Marina Yavorskaya
+uidNumber: 3545
+gidNumber: 506
+homeDirectory: /home/myavorskaya/
+displayName: Marina Yavorskaya
+
+# mvasylenko, People, cogniance.com
+dn: uid=mvasylenko,ou=People,dc=cogniance,dc=com
+sn: mvasylenko
+loginShell: /bin/bash
+mail: mvasylenko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: mvasylenko
+gecos: Mariia Vasylenko
+cn: Mariia Vasylenko
+uidNumber: 3546
+gidNumber: 506
+homeDirectory: /home/mvasylenko/
+displayName: Mariia Vasylenko
+
+# ue-dmoiak, People, cogniance.com
+dn: uid=ue-dmoiak,ou=People,dc=cogniance,dc=com
+sn: ue-dmoiak
+loginShell: /bin/bash
+mail: daria.moiak@cloudmade.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-dmoiak
+gecos: Daria Moiak
+cn: Daria Moiak
+uidNumber: 3547
+gidNumber: 3020
+homeDirectory: /home/ue-dmoiak/
+displayName: Daria Moiak
+
+# ue-eadao, People, cogniance.com
+dn: uid=ue-eadao,ou=People,dc=cogniance,dc=com
+sn: ue-eadao
+loginShell: /bin/bash
+mail: eileen@1800accountant.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-eadao
+gecos: Eileen Adao
+cn: Eileen Adao
+uidNumber: 3548
+gidNumber: 3020
+homeDirectory: /home/ue-eadao/
+displayName: Eileen Adao
+
+# msolomko, People, cogniance.com
+dn: uid=msolomko,ou=People,dc=cogniance,dc=com
+sn: msolomko
+loginShell: /bin/bash
+mail: msolomko@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: msolomko
+gecos: Mykyta Solomko
+cn: Mykyta Solomko
+uidNumber: 3549
+gidNumber: 506
+homeDirectory: /home/msolomko/
+displayName: Mykyta Solomko
+
+# dkononiuk, People, cogniance.com
+dn: uid=dkononiuk,ou=People,dc=cogniance,dc=com
+sn: dkononiuk
+loginShell: /bin/bash
+mail: dkononiuk@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: dkononiuk
+gecos: Dmytro Kononiuk
+cn: Dmytro Kononiuk
+uidNumber: 3550
+gidNumber: 506
+homeDirectory: /home/dkononiuk/
+displayName: Dmytro Kononiuk
+
+# vglushenok, People, cogniance.com
+dn: uid=vglushenok,ou=People,dc=cogniance,dc=com
+sn: vglushenok
+loginShell: /bin/bash
+mail: vglushenok@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: vglushenok
+gecos: Valeriy Glushenok
+cn: Valeriy Glushenok
+uidNumber: 3551
+gidNumber: 506
+homeDirectory: /home/vglushenok/
+displayName: Valeriy Glushenok
+
+# ue-awang, People, cogniance.com
+dn: uid=ue-awang,ou=People,dc=cogniance,dc=com
+sn: ue-awang
+loginShell: /bin/bash
+mail: awang@saicusa.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-awang
+gecos: Alex Wang
+cn: Alex Wang
+uidNumber: 3552
+gidNumber: 3020
+homeDirectory: /home/ue-awang/
+displayName: Alex Wang
+
+# ue-mtse, People, cogniance.com
+dn: uid=ue-mtse,ou=People,dc=cogniance,dc=com
+sn: ue-mtse
+loginShell: /bin/bash
+mail: mtse@saicusa.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-mtse
+gecos: Mark Tse
+cn: Mark Tse
+uidNumber: 3553
+gidNumber: 3020
+homeDirectory: /home/ue-mtse/
+displayName: Mark Tse
+
+# ue-wshuang, People, cogniance.com
+dn: uid=ue-wshuang,ou=People,dc=cogniance,dc=com
+sn: ue-wshuang
+loginShell: /bin/bash
+mail: wangshuang01@saicmotor.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-wshuang
+gecos: Wang Shuang
+cn: Wang Shuang
+uidNumber: 3554
+gidNumber: 3020
+homeDirectory: /home/ue-wshuang/
+displayName: Wang Shuang
+
+# dzhavoronok, People, cogniance.com
+dn: uid=dzhavoronok,ou=People,dc=cogniance,dc=com
+sn: dzhavoronok
+loginShell: /bin/bash
+mail: dzhavoronok@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: dzhavoronok
+gecos: Daria Zhavoronok
+cn: Daria Zhavoronok
+uidNumber: 3555
+gidNumber: 506
+homeDirectory: /home/dzhavoronok/
+displayName: Daria Zhavoronok
+
+# ue-samar, People, cogniance.com
+dn: uid=ue-samar,ou=People,dc=cogniance,dc=com
+sn: ue-samar
+loginShell: /bin/bash
+mail: Sandeep.Amar@xerox.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: ue-samar
+gecos: Sandeep Amar
+cn: Sandeep Amar
+uidNumber: 3556
+gidNumber: 3020
+homeDirectory: /home/ue-samar/
+displayName: Sandeep Amar
+
+# bddep, People, cogniance.com
+dn: uid=bddep,ou=People,dc=cogniance,dc=com
+sn: bddep
+loginShell: /bin/bash
+mail: bddep@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: bddep
+gecos: bddep
+cn: bddep
+uidNumber: 3557
+gidNumber: 506
+homeDirectory: /home/bddep/
+displayName: bddep
+
+# sr-salesops, People, cogniance.com
+dn: uid=sr-salesops,ou=People,dc=cogniance,dc=com
+sn: sr-salesops
+loginShell: /bin/bash
+mail: salesops@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: sr-salesops
+gecos: Sales Ops
+cn: Sales Ops
+uidNumber: 3558
+gidNumber: 3021
+homeDirectory: /home/sr-salesops/
+displayName: Sales Ops
+
+# eadamson, People, cogniance.com
+dn: uid=eadamson,ou=People,dc=cogniance,dc=com
+sn: eadamson
+loginShell: /bin/bash
+mail: eadamson@cogniance.com
+objectClass: top
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: inetOrgPerson
+objectClass: organizationalPerson
+uid: eadamson
+gecos: Ed Adamson
+cn: Ed Adamson
+uidNumber: 3559
+gidNumber: 506
+homeDirectory: /home/eadamson/
+displayName: Ed Adamson
+
+# search result
+search: 2
+result: 0 Success
+
+# numResponses: 2620
+# numEntries: 2619
